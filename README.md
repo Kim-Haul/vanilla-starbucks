@@ -10,7 +10,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.1/ScrollToPlugin.min.js" integrity="sha512-nTHzMQK7lwWt8nL4KF6DhwLHluv6dVq/hNnj2PBN0xMl2KaMm1PM02csx57mmToPAodHmPsipoERRNn4pG7f+Q==" crossorigin="anonymous"></script>
 ```
 # Swiper
-하드웨어 가속 전환과 여러 기본 동작s을 갖춘 현대적인 슬라이드 라이브러리 [Swiper](https://swiperjs.com/) 참고.  
+하드웨어 가속 전환과 여러 기본 동작을 갖춘 현대적인 슬라이드 라이브러리 [Swiper](https://swiperjs.com/) 참고.  
 해당 프로젝트에서는 6.8.4 버전 사용.
 ```html
 <link rel="stylesheet" href="https://unpkg.com/swiper@6.8.4/swiper-bundle.min.css"/>
